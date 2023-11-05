@@ -52,6 +52,7 @@ nav {
     padding-inline: 4rem;
     padding-block: 1rem;
     position: fixed;
+    z-index: 1000;
 }
 .logo {
     display: inline-block;
